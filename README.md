@@ -1,6 +1,5 @@
 # health_informatics_cdss
-# Transforming Healthcare: Reducing Medical Errors With
-# Clinical Decision Support Systems (CDSS) Utilizing A Literature Review
+# Transforming Healthcare: Reducing Medical Errors With Clinical Decision Support Systems (CDSS) Utilizing A Literature Review
 
 # Abstract
 Medical errors are preventable adverse events that can occur at various stages of healthcare delivery, posing risks to patient safety and well-being. Such errors, with impact ranging from mild damage to injury or death, need a thorough knowledge of their underlying causes. The multifaceted character of medical errors highlights major underlying parameters, such as communication failures between healthcare workers and patients. Human parameters like exhaustion, burnout, and insufficient training can impair decision-making and attention, while structural concerns such as defective processes and limited access to crucial information increase the chance of errors. Equipment and technology-related issues, such as malfunctions and insufficient training, are additional sources of errors. Patient-related issues, such as lack of engagement and adherence to treatment regimens, are also crucial.
